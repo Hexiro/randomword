@@ -4,7 +4,7 @@ Unlike other libraries, there is no API. This library can be used without intern
 
 ## Usage
 ```python
-from randomword import randomword
+import randomword
 
 random_word = randomword.get_random_word()
 # importing randomword and then doing randomword.randomword.get_random_word() is also applicable.
